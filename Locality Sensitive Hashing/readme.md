@@ -1,6 +1,11 @@
+## Locality Sensitive Hashing 
+
 Data : http://www.kaggle.com/benhamner/nips-papers
 
 Paper : http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.3005&rep=rep1&type=pdf
+
+Pre-Requistive : Python Basic
+Technologies Used : Numpy,Pandas
 
 * Recommendation engine above implemented is Content Based recommends only using information about the items being recommended. 
  There is no information about the users.
