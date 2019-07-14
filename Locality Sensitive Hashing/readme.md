@@ -1,11 +1,11 @@
 Data : http://www.kaggle.com/benhamner/nips-papers
 Paper : http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.3005&rep=rep1&type=pdf
 
-Recommendation engine above implemented is Content Based recommends only using information about the items being recommended. 
-There is no information about the users.
+*##Recommendation engine## above implemented is Content Based recommends only using information about the items being recommended. 
+ There is no information about the users.
   
-PROCEDURE
-  LSH Checklist
+* PROCEDURE
+  ###LSH Checklist##
 As a final checklist for performing LSH, ensure that you complete the following steps:
 
 1. Create shingles from your available data set (e.g. unigrams, bigrams, ratings, etc.)
